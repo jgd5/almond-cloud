@@ -108,7 +108,7 @@
     "byline": "^5.0.0",
     "chart.js": "^2.7.3",
     "cli-table": "^0.3.1",
-    "codemirror": "^5.40.2",
+    "codemirror": "^5.48.0",
     "coveralls": "^3.0.2",
     "eslint": "^5.13.0",
     "form-data": "^2.3.3",
